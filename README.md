@@ -6,7 +6,12 @@ OpenMCP (Open Model Context Protocol)是一种开放协议，用于标准化应�
 
 OpenMCP通用Agent协议 QQ 交流群：782833642
 
+ 
 
+## 仓库使用规则实例
+想法放在/Idea/下，使用Markdown
+MCP Server工作放在/SDK-Sample/适用领域/，使用Markdown，例如SDK-Sample\Blender-Agent-SDK\你的项目
+ 
 
 ## 目标和价值
 - 让全球开发者可以通过查找需要的MCP Server来快速的配置自己的AI应用，让开发AI逐步进化成积木式配置AI
