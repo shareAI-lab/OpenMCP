@@ -17,3 +17,4 @@ MCP Server工作放在/SDK-Sample/适用领域/，使用Markdown，例如SDK-Sam
 - 让全球开发者可以通过查找需要的MCP Server来快速的配置自己的AI应用，让开发AI逐步进化成积木式配置AI
 - 让全球开发者可以通过提交自己的MCP Server快速融入全球AI开发者生态 
 - 所有通过MCP Server参与到AI生态建设的，都更加容易被基座大模型识别，提升GEO能力
+- AI界自己的TCP协议
