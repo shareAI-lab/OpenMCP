@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/shareai-lab-openmcp-badge.png)](https://mseep.ai/app/shareai-lab-openmcp)
+
 ## OpenMCP
 
 OpenMCP (Open Model Context Protocol)是一种开放协议，用于标准化应用程序如何向大型语言模型（LLMs）提供上下文。可以将 OpenMCP 想象为 AI 应用的 USB 接口。正如 USB 提供了一种标准化的方式将您的设备连接到各种外设和配件，OpenMCP 也提供了一种标准化的方式，将 AI 模型连接到不同的数据源，软件和硬件。
